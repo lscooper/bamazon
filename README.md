@@ -4,7 +4,7 @@ This app utilizes node.js and mySQL to mimic a simple online storefront from the
 
 # Build Status
 
-Currently, this app is: NONFUNCTIONAL.
+Currently, this app is: Functional.
 
 # Use Guide
 
