@@ -1,12 +1,16 @@
-# bamazon
+### bamazon
 
-This app utilizes node.js and mySQL to mimic a simple online storefront from the command line.
+Mimics a simple online storefront from the command line.
 
-# Build Status
+### Technologies Used
 
-Currently, this app is: Functional.
+node.js, MySQL
 
-# Use Guide
+### Status
+
+Functional
+
+### Use Guide
 
 1. Run the app from your command line of choice.
 2. This will display all of the items available, as well as their prices.
